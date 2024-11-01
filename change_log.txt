@@ -1,0 +1,63 @@
+Version 2.2
+    [fixed] - modal, validation was not showing fine with no conflict option
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 2.1
+    [new] - new shortcode for avoiding conflict wp themes
+    [fixed] - preview form on edition
+    [new] - added panel field
+    [fixed] - upload images on latest wordpress version
+    [fixed] - highlights issues
+    [new] - added feature to customize order
+    [new] - added customize value and labels for checkbox, radiobutton, select and multiselect list
+    [new] - customize scroll on load form, add no conflict option
+    [new] - upgrade recaptcha
+    [new] - conditional logic- multiple select added
+    [fixed] - conditional logic issue
+     [new] - attach and customize pdf to mail message for customer
+    [fixed] - multiple checked options on checkbox field
+    [fixed] - pdf issue when using not latin characters
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.5.4
+    [fixed] - issue when going on previous form
+-------------------------------------------------------------------------------------------------------------------
+Version 1.5.3
+    [update] - variables were not showing ext and success message support internal shortcodes
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.5.2
+    [fixed] - variables was not showing fine when some fields are not placed on the form
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.5.1
+    [update] - locked feature for demo plugin site
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.2.6
+    [fixed] - form was not working when css is not generated
+------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.2.5
+    [update] - some fixes with css conflicts
+------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.2.4
+    [fixed] - related with database installation
+    [update] - system check page 
+------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.2.3
+    [fix] - conditional logic
+    [fixed] - upload field and size problem
+------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.2
+    [new] - decimal places feature added to prices
+    [new] - customize height and width of thumbnails of dynamic checkbox & Radio Button
+------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+Version 1.1
+    [update] - update codes to summary sticky box
+    [new] - added option to show individuals items cart to paypal
+------------------------------------------------------------------------------------------------------------------

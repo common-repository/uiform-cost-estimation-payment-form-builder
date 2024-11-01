@@ -1,0 +1,30 @@
+.rkfm-express-pro-button{
+    padding: 3px 6px 0 10px !important;
+}
+.rkfm-express-lock-wrap .fa-lock{
+    color:red;
+}
+.uiform-frm-wiz-express-overlay{
+    display: block;
+    width: 100%;
+    height: 100%;
+     background: #ffffff;
+     /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+
+  /* IE 5-7 */
+  filter: alpha(opacity=40);
+
+  /* Netscape */
+  -moz-opacity: 0.4;
+
+  /* Safari 1.x */
+  -khtml-opacity: 0.4;
+
+  /* Good browsers */
+  opacity: 0.4;
+  position: absolute;
+  top:0px;
+  right:0px;
+  z-index:2;
+}
